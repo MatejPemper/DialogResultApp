@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.exe.config
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.exe
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\bin\Debug\DialogResultApp.pdb
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.Form1.resources
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.exe
+C:\Users\ucenik\source\repos\DialogResultApp\DialogResultApp\obj\Debug\DialogResultApp.pdb
